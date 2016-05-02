@@ -4,6 +4,8 @@
 The purposes of these materials is to provide both a quick reference and a guide for screen reader users.
 
 * Command Quick Reference
+* Setting Up Git
+* Setting Up Github
 * Creating a New Repository
 * Cloning an Existing Repository
 * Forking a Repository
